@@ -1096,7 +1096,7 @@ const rawAllCountries = [
     ['africa'],
     're',
     '262',
-    '+.. . .. .. .. ..',
+    '+... . .. .. .. ..',
   ],
   [
     'Romania',
